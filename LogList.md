@@ -67,8 +67,37 @@ Xcode集成了对测试的支持,其中单元测试使用的是XCTest框架
 
 ### 消息传递
 
-- [ ] 消息传递; 🌹 🌹 🌹221(1h)—>222(1.3h)
+- [ ]  **消息传递; 🌹 🌹 🌹221(1h)—>222(1.3h)**
 
+
+Messaging是运行时通过SEL查找IMP的过程，通过函数指针就可以执行对应的实现。 
+
+Message Forwarding消息转发是查找IMP失败后通过转发执行对应的实现。
+
+OC是一个动态语言，提供运行时系统支持动态的创建类和对象以及进行消息传递和转发工作。不像面向过程语言，调用方法就是简单的执行对应代码片段，而是推迟到运行时发送消息，如[object foo]，流程是:
+
+1) 通过对象object的isa指针获取objc_class；
+
+2）在类的method_list中查找foo方法;
+
+3)  如果类中没有查到foo方法，则去父类中查找；
+
+4） 找到foo这个函数，就去执行对应的实现IMP。
+
+ps:  objc_class中有cache属性，在类中查找foo方法时，实际上会先从cache中查找，没有再进入流程2,找到后会将方法名foo作为key,对应实现作为value存入cache中，下次发送foo消息，则可在cache中找到，避免遍历objc_method_list。
+
+如果无法找到foo方法，并没有结束，而是会进入消息转发阶段:
+
+1) 动态方法解析： 消息接收者object动态添加方法响应这个消息(+resolveInstanceMethod: 或+resolveClassMethod)或者转发给其他对象处理(-forwardingTargetForSelector:)。
+
+2) 完整的消息转发机制： 创建NSInvocation对象存放消息有关的所有细节，调用NSInvocation对象让消息分发系统将消息派发给指定的对象。（-forwardInvocation:）
+
+- [ ] **runtime运行时;🌹🌹222(3h)—>227(1.5h)**
+
+
+objc_object对象, objc_class类, objc_method方法。
+
+Runtime的核心：消息传递。
 
 - [x] Block;🌹 🌹 🌹214D(1h) —> 215D(5h) —> 216(4h)
 
@@ -87,9 +116,6 @@ iOS4.0+引进的对C语言的扩展，用来实现匿名函数的特性。
 
 
 主要用于发送消息响应用户界面的事件，可以说是UI中消息传递的最佳选择。 发送者与接收者之间耦合度比较低，双方互不知道。一个控件可以和多个Target-action关联，如果target为nil，则action会在响应链中查找知道找到一个响应它的对象。局限在于发送消息时无法携带自定义的数据，Mac上只能传递发送者，iOS上可以选择传递发送者或者事件类型。
-
-- [ ] runtime运行时;🌹🌹222(3h)
-
 
 ### 基础控件
 
