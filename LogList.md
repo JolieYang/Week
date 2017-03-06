@@ -4,49 +4,6 @@
 
 ### 基础
 
-- [x] 蓝牙;🌹 213N —> 214D(1.8h)
-
-
-BLE(Bluetooth Low Energy)蓝牙低能耗技术
-
-CoreBluetooth.framework(支持iOS6及以上版本) ：基于蓝牙4.0的蓝牙开发框架。 不像以前的GameKit和MultipeerConnectivity框架局限于iOS设备间的传输，支持跨设备(Android, Windows Phone)进行传输。
-
-蓝牙通信过程中两个核心角色,有点像客户端(中心设备)-服务器模式(外围设备):
-
- 1.中心设备(CBCentralManager),使用数据，扫描外围设备后建立连接，连接成功后可以使用外围设备的服务和特征。
-
-2. 外围设备(CBPeripheralManager)，发布服务，生成与保存数据。
-
-两者之间交互的桥梁是服务和特征，通过唯一标识UUID唯一确定一个服务。特殊的服务使用16位的UUID，如果硬件所做的事情不在这个列表，可使用自定义的UUID(要求必须是128位的)
-
-一个设备包含一个或多个服务，一个服务包含若干个特征。
-
-流程：
-
-【蓝牙中心模式】比如金融刷卡器，通过蓝牙与手机通讯。手机端的应用通过蓝牙发送不同指令控制刷卡器执行一些动作。比如读磁条卡等。
-
-1.创建中心设备对象(CBCentralManager)并指定代理;
-
-2.扫描外围设备，发现外围设备连接并保存；
-
-3.查找外围设备服务和特征，查找到可用特征就读取数据。
-
-支持与外设做数据交互与订阅特征(Characteristic)的通知
-
-【蓝牙外设模式】
-
-1.创建外围设备对象(CBPeripheralManager)并指定代理；
-
-2.创建特征与服务,描述与权限并添加到外围设备中；
-
-3.外围设备开启广播服务;
-
-4.和中央设备(CBCentral)进行交互(设置处理订阅，取消订阅，读characteristic，写characteristic的委托方法);
-
-ps:不论创建外设对象还是中心对象，指定代理时都会检测蓝牙是否已经打开。
-
-电量考虑： 苹果建议外围设备在前30s每20ms发送一次广播报，30s后，使用645ms,768ms,1065ms,1394ms可增加被iOS设备发现的机会。
-
 
 - [ ] 本地存储;🌹 
 - [ ] 多线程；🌹 
@@ -63,8 +20,12 @@ Xcode集成了对测试的支持,其中单元测试使用的是XCTest框架
 
 
 - [ ] 动画；🌹 
+- [ ] 转场；🌹 
 
-### 消息传递
+### 对象模型与消息传递
+
+- [ ] 对象模型;🌹 🌹 
+
 
 - [x] **runtime运行时;🌹🌹222(3h)—>227(1.5h)**—>228(1.3h)
 
@@ -149,15 +110,69 @@ iOS4.0+引进的对C语言的扩展，用来实现匿名函数的特性。
 - [ ] UITableView;🌹 🌹 
 - [ ] UICollectionView;🌹 
 - [ ] UIScrollView；🌹 
+- [x] UINavigationController;🌹 🌹 302(1.7h)—>306(1.5h)
 
+
+导航控制器由viewControllers数组，导航栏(navigationBar), 可选的工具栏(toolbar), 代理(设置代理可以协调处理相应事件，比如转场)组成。
+
+导航栏： 左边按钮(leftBarButtonItem/backBarButtonItem)，中间标题(title/titleView),右边按钮(rightBarButtonItem)，标题上面标签Promt(prompt)30像素的高度。
+
+视图控制器栈
+
+导航栈：  UINavigationBar与UINavigationItem。
+
+重叠； tintColor传递性。
 
 - [ ] 远程推送;🌹 214N
-- [ ] AVFoundation二维码扫描;🌹 🌹 
 - [ ] 混编UIWebView;🌹 🌹 
-- [ ] 转场；🌹 
-- [ ] Photos图片框架;
-- [ ] Wallet；
 
+
+### 框架
+
+- [ ] Wallet;
+- [ ] AVFoundation二维码扫描;🌹 🌹 
+- [ ] Photos图片框架;
+- [x] 蓝牙;🌹 213N —> 214D(1.8h)
+
+BLE(Bluetooth Low Energy)蓝牙低能耗技术
+
+CoreBluetooth.framework(支持iOS6及以上版本) ：基于蓝牙4.0的蓝牙开发框架。 不像以前的GameKit和MultipeerConnectivity框架局限于iOS设备间的传输，支持跨设备(Android, Windows Phone)进行传输。
+
+蓝牙通信过程中两个核心角色,有点像客户端(中心设备)-服务器模式(外围设备):
+
+ 1.中心设备(CBCentralManager),使用数据，扫描外围设备后建立连接，连接成功后可以使用外围设备的服务和特征。
+
+1. 外围设备(CBPeripheralManager)，发布服务，生成与保存数据。
+
+两者之间交互的桥梁是服务和特征，通过唯一标识UUID唯一确定一个服务。特殊的服务使用16位的UUID，如果硬件所做的事情不在这个列表，可使用自定义的UUID(要求必须是128位的)
+
+一个设备包含一个或多个服务，一个服务包含若干个特征。
+
+流程：
+
+【蓝牙中心模式】比如金融刷卡器，通过蓝牙与手机通讯。手机端的应用通过蓝牙发送不同指令控制刷卡器执行一些动作。比如读磁条卡等。
+
+1.创建中心设备对象(CBCentralManager)并指定代理;
+
+2.扫描外围设备，发现外围设备连接并保存；
+
+3.查找外围设备服务和特征，查找到可用特征就读取数据。
+
+支持与外设做数据交互与订阅特征(Characteristic)的通知
+
+【蓝牙外设模式】
+
+1.创建外围设备对象(CBPeripheralManager)并指定代理；
+
+2.创建特征与服务,描述与权限并添加到外围设备中；
+
+3.外围设备开启广播服务;
+
+4.和中央设备(CBCentral)进行交互(设置处理订阅，取消订阅，读characteristic，写characteristic的委托方法);
+
+ps:不论创建外设对象还是中心对象，指定代理时都会检测蓝牙是否已经打开。
+
+电量考虑： 苹果建议外围设备在前30s每20ms发送一次广播报，30s后，使用645ms,768ms,1065ms,1394ms可增加被iOS设备发现的机会。
 
 
 ### 项目
