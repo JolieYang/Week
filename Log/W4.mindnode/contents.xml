@@ -30,9 +30,9 @@
 				<key>isLeftAligned</key>
 				<false/>
 				<key>location</key>
-				<string>{-1526.26953125, 5.1796875}</string>
+				<string>{-1857.73828125, 2.72265625}</string>
 				<key>nodeID</key>
-				<string>D9B9B452-901B-441C-B329-C0D1006EE7B6</string>
+				<string>DC272B38-933D-4316-8ECB-959B4866FD3C</string>
 				<key>strokeColor</key>
 				<string>{0.965, 0.965, 0.965, 1.000}</string>
 				<key>strokeStyle</key>
@@ -46,8 +46,6 @@
 						<integer>1</integer>
 						<key>fillColor</key>
 						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>hasFoldedSubnodes</key>
-						<true/>
 						<key>isDecreasingBranchThickness</key>
 						<true/>
 						<key>isDrawingFill</key>
@@ -55,9 +53,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1396.26953125, -65.8203125}</string>
+						<string>{-1727.73828125, -280.77734375}</string>
 						<key>nodeID</key>
-						<string>79D39C82-08F4-49CC-ADFA-A61A83AA945D</string>
+						<string>E25E8458-8066-4BC2-BC3D-934CB06445AC</string>
 						<key>strokeColor</key>
 						<string>{0.689, 0.215, 0.952, 1.000}</string>
 						<key>strokeStyle</key>
@@ -78,9 +76,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1255.26953125, -168.3203125}</string>
+								<string>{-1586.73828125, -362.77734375}</string>
 								<key>nodeID</key>
-								<string>5F926B57-21B2-44A6-AD4A-426E34BAD32A</string>
+								<string>187B5537-7122-4D7F-BE7F-CB46123DCECB</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -101,9 +99,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1140.26953125, -188.8203125}</string>
+										<string>{-1471.73828125, -383.27734375}</string>
 										<key>nodeID</key>
-										<string>AB986450-12AD-496E-B4F4-0C86F8B67032</string>
+										<string>BACC2424-F970-4FDA-9456-4D3348FA99A6</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -121,10 +119,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 2-Methods(1h)}</string>
@@ -142,9 +140,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1140.26953125, -147.8203125}</string>
+										<string>{-1471.73828125, -342.27734375}</string>
 										<key>nodeID</key>
-										<string>1C27D8F6-CF07-46BC-B466-EDE6BDF14EA7</string>
+										<string>A9C0C060-CF81-41C2-8F6E-CDE35CD7D45C</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -162,10 +160,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 2-\'bc\'cc\'b3\'d0(1h)}</string>
@@ -181,10 +179,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 Swift}</string>
@@ -202,9 +200,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1255.26953125, -86.3203125}</string>
+								<string>{-1586.73828125, -280.77734375}</string>
 								<key>nodeID</key>
-								<string>634A9692-3CB7-4227-BC0F-B8006E8ADFD8</string>
+								<string>1E75AF7B-F05C-48EC-9CCC-AF63FF5537A2</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -225,9 +223,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1105.26953125, -106.8203125}</string>
+										<string>{-1436.73828125, -301.27734375}</string>
 										<key>nodeID</key>
-										<string>EE18DEAC-7557-4B6F-8B32-FCA71BAC3DE3</string>
+										<string>0A511962-3595-4131-B22A-76E1F8F0D7AC</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -245,10 +243,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'d5\'fb\'c0\'ed\'b5\'bc\'ba\'bd\'c0\'b8(1.5h)}</string>
@@ -266,9 +264,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1105.26953125, -65.8203125}</string>
+										<string>{-1436.73828125, -260.27734375}</string>
 										<key>nodeID</key>
-										<string>5941F8F0-3B84-4A85-A691-FB5711C6383C</string>
+										<string>10496CDF-AA8D-4AD4-A1A2-744BC90D8C9C</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -286,10 +284,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'d5\'fb\'c0\'ed\'b3\'c9CSDN\'b2\'a9\'bf\'cd(1h)}</string>
@@ -305,10 +303,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 iOS Base}</string>
@@ -326,9 +324,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1255.26953125, -24.8203125}</string>
+								<string>{-1586.73828125, -219.27734375}</string>
 								<key>nodeID</key>
-								<string>E181D9C3-A0F9-41E1-B8BC-1DDBE3047CEB</string>
+								<string>3A5BE7BA-59AC-4AD4-B9C9-0C6896E2BCBA</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -346,10 +344,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'bb\'d8\'b9\'cb\'b5\'f7\'d5\'fb\'b7\'bd\'cf\'f2\'d3\'eb\'d6\'aa\'ca\'b6\'b5\'e3(0.5h)}</string>
@@ -367,9 +365,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1255.26953125, 16.1796875}</string>
+								<string>{-1586.73828125, -178.27734375}</string>
 								<key>nodeID</key>
-								<string>B1823F38-F4F8-4D4B-9B9A-1E50C452E453</string>
+								<string>AE916770-E286-4227-BE87-CBB19CC85461</string>
 								<key>strokeColor</key>
 								<string>{0.689, 0.215, 0.952, 1.000}</string>
 								<key>strokeStyle</key>
@@ -390,9 +388,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1125.26953125, 16.1796875}</string>
+										<string>{-1456.73828125, -178.27734375}</string>
 										<key>nodeID</key>
-										<string>1844C777-6B67-4C38-9F8F-A3A005B91119</string>
+										<string>1DEAF80B-E8B8-4D45-9A74-38B73B7AEB56</string>
 										<key>strokeColor</key>
 										<string>{0.689, 0.215, 0.952, 1.000}</string>
 										<key>strokeStyle</key>
@@ -410,10 +408,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 2-\'b9\'b9\'d4\'ec\'c6\'f7}</string>
@@ -429,10 +427,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 N(1.3h)}</string>
@@ -448,10 +446,10 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 D1(6.3h)}</string>
@@ -462,434 +460,6 @@
 						<integer>1</integer>
 						<key>fillColor</key>
 						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>hasFoldedSubnodes</key>
-						<true/>
-						<key>isDecreasingBranchThickness</key>
-						<true/>
-						<key>isDrawingFill</key>
-						<false/>
-						<key>isLeftAligned</key>
-						<false/>
-						<key>location</key>
-						<string>{-1396.26953125, -24.8203125}</string>
-						<key>nodeID</key>
-						<string>2B2D5B37-F2E6-49CC-8830-5B3D73D85EDB</string>
-						<key>strokeColor</key>
-						<string>{0.144, 0.670, 1.000, 1.000}</string>
-						<key>strokeStyle</key>
-						<integer>0</integer>
-						<key>strokeWidth</key>
-						<real>6</real>
-						<key>subnodes</key>
-						<array>
-							<dict>
-								<key>contentAlignment</key>
-								<integer>1</integer>
-								<key>fillColor</key>
-								<string>{1.000, 1.000, 1.000, 1.000}</string>
-								<key>isDecreasingBranchThickness</key>
-								<true/>
-								<key>isDrawingFill</key>
-								<false/>
-								<key>isLeftAligned</key>
-								<false/>
-								<key>location</key>
-								<string>{-1267.26953125, -45.3203125}</string>
-								<key>nodeID</key>
-								<string>851B6B0E-06D3-4D8E-95AF-D69C02E8FC38</string>
-								<key>strokeColor</key>
-								<string>{0.144, 0.670, 1.000, 1.000}</string>
-								<key>strokeStyle</key>
-								<integer>0</integer>
-								<key>strokeWidth</key>
-								<real>5</real>
-								<key>subnodes</key>
-								<array>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{-1117.26953125, -127.3203125}</string>
-										<key>nodeID</key>
-										<string>DED625D1-5657-43A9-8874-E545CA43DE4B</string>
-										<key>strokeColor</key>
-										<string>{0.144, 0.670, 1.000, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array>
-											<dict>
-												<key>contentAlignment</key>
-												<integer>1</integer>
-												<key>fillColor</key>
-												<string>{1.000, 1.000, 1.000, 1.000}</string>
-												<key>isDecreasingBranchThickness</key>
-												<true/>
-												<key>isDrawingFill</key>
-												<false/>
-												<key>isLeftAligned</key>
-												<false/>
-												<key>location</key>
-												<string>{-888.26953125, -134.8203125}</string>
-												<key>nodeID</key>
-												<string>3D9D63B8-E1A1-48E5-BFA6-6A7D4E8F37E9</string>
-												<key>strokeColor</key>
-												<string>{0.144, 0.670, 1.000, 1.000}</string>
-												<key>strokeStyle</key>
-												<integer>0</integer>
-												<key>strokeWidth</key>
-												<real>3</real>
-												<key>subnodes</key>
-												<array/>
-												<key>title</key>
-												<dict>
-													<key>constrainedWidth</key>
-													<integer>300</integer>
-													<key>htmlText</key>
-													<string>&lt;p style='text-align: left; '&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Regular"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://www.molotang.com/articles/1905.html'&gt;从消息发送（方法调用）看&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 14px "Helvetica Neue"; text-decoration: underline; -cocoa-font-postscriptname: "HelveticaNeue"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://www.molotang.com/articles/1905.html'&gt;Objective-C&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Regular"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://www.molotang.com/articles/1905.html'&gt;的运行时&lt;/a&gt;&lt;/p&gt;</string>
-													<key>shrinkToFitContent</key>
-													<integer>1</integer>
-													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
-{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c93333;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "http://www.molotang.com/articles/1905.html"}}{\fldrslt 
-\f0\fs28 \cf2 \expnd0\expndtw0\kerning0
-\ul \ulc2 \'b4\'d3\'cf\'fb\'cf\'a2\'b7\'a2\'cb\'cd\'a3\'a8\'b7\'bd\'b7\'a8\'b5\'f7\'d3\'c3\'a3\'a9\'bf\'b4
-\f1 Objective-C
-\f0 \'b5\'c4\'d4\'cb\'d0\'d0\'ca\'b1}}}</string>
-												</dict>
-											</dict>
-										</array>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;回顾消息传递(0.5h)&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'bb\'d8\'b9\'cb\'cf\'fb\'cf\'a2\'b4\'ab\'b5\'dd(0.5h)}</string>
-										</dict>
-									</dict>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{-1117.26953125, -78.8203125}</string>
-										<key>nodeID</key>
-										<string>ABA69B61-BFED-44B4-99C3-42B549FD5DC0</string>
-										<key>strokeColor</key>
-										<string>{0.144, 0.670, 1.000, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array>
-											<dict>
-												<key>contentAlignment</key>
-												<integer>1</integer>
-												<key>fillColor</key>
-												<string>{1.000, 1.000, 1.000, 1.000}</string>
-												<key>isDecreasingBranchThickness</key>
-												<true/>
-												<key>isDrawingFill</key>
-												<false/>
-												<key>isLeftAligned</key>
-												<false/>
-												<key>location</key>
-												<string>{-867.26953125, -78.8203125}</string>
-												<key>nodeID</key>
-												<string>9B98CDD7-F79D-4712-B2F7-45CD768C287D</string>
-												<key>strokeColor</key>
-												<string>{0.144, 0.670, 1.000, 1.000}</string>
-												<key>strokeStyle</key>
-												<integer>0</integer>
-												<key>strokeWidth</key>
-												<real>3</real>
-												<key>subnodes</key>
-												<array/>
-												<key>title</key>
-												<dict>
-													<key>constrainedWidth</key>
-													<integer>300</integer>
-													<key>htmlText</key>
-													<string>&lt;p&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 12px "Times"; text-decoration: underline; -cocoa-font-postscriptname: "Times-Roman"; -cocoa-underline: single; ' href='http://www.molotang.com/articles/1912.html'&gt;Objective-C&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 12px "Songti SC"; text-decoration: underline; -cocoa-font-postscriptname: "STSongti-SC-Regular"; -cocoa-underline: single; ' href='http://www.molotang.com/articles/1912.html'&gt;的对象模型与运行时&lt;/a&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;  &lt;/span&gt;&lt;/p&gt;</string>
-													<key>shrinkToFitContent</key>
-													<integer>1</integer>
-													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fnil\fcharset134 STSongti-SC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue233;\red0\green0\blue0;}
-{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c93333;\cssrgb\c0\c0\c0;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "http://www.molotang.com/articles/1912.html"}}{\fldrslt 
-\f0\fs24 \cf2 \expnd0\expndtw0\kerning0
-\ul \ulc2 \outl0\strokewidth0 \strokec2 Objective-C
-\f1 \'b5\'c4\'b6\'d4\'cf\'f3\'c4\'a3\'d0\'cd\'d3\'eb\'d4\'cb\'d0\'d0\'ca\'b1}}
-\f0\fs24 \cf3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec3  \'a0}</string>
-												</dict>
-											</dict>
-										</array>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;回顾对象模型(1h),小结&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'bb\'d8\'b9\'cb\'b6\'d4\'cf\'f3\'c4\'a3\'d0\'cd(1h),\'d0\'a1\'bd\'e1}</string>
-										</dict>
-									</dict>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{-1117.26953125, -37.8203125}</string>
-										<key>nodeID</key>
-										<string>737C2D11-B48A-44C2-9508-397DDE96DCD1</string>
-										<key>strokeColor</key>
-										<string>{0.144, 0.670, 1.000, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array>
-											<dict>
-												<key>contentAlignment</key>
-												<integer>1</integer>
-												<key>fillColor</key>
-												<string>{1.000, 1.000, 1.000, 1.000}</string>
-												<key>isDecreasingBranchThickness</key>
-												<true/>
-												<key>isDrawingFill</key>
-												<false/>
-												<key>isLeftAligned</key>
-												<false/>
-												<key>location</key>
-												<string>{-793.26953125, -37.8203125}</string>
-												<key>nodeID</key>
-												<string>9CFFF8EA-A92A-4991-AE1D-AC6FFC3AA55C</string>
-												<key>strokeColor</key>
-												<string>{0.144, 0.670, 1.000, 1.000}</string>
-												<key>strokeStyle</key>
-												<integer>0</integer>
-												<key>strokeWidth</key>
-												<real>3</real>
-												<key>subnodes</key>
-												<array/>
-												<key>title</key>
-												<dict>
-													<key>constrainedWidth</key>
-													<integer>300</integer>
-													<key>htmlText</key>
-													<string>&lt;p style='text-align: left; '&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "Helvetica Neue"; text-decoration: underline; -cocoa-font-postscriptname: "HelveticaNeue-Bold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt;Method Swizzling &lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Semibold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt;和&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "Helvetica Neue"; text-decoration: underline; -cocoa-font-postscriptname: "HelveticaNeue-Bold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt; AOP &lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Semibold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt;实践&lt;/a&gt;&lt;/p&gt;</string>
-													<key>shrinkToFitContent</key>
-													<integer>1</integer>
-													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
-{\*\expandedcolortbl;\csgray\c100000;\cssrgb\c0\c0\c93333;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-{\field{\*\fldinst{HYPERLINK "http://tech.glowing.com/cn/method-swizzling-aop/"}}{\fldrslt 
-\f0\b\fs28 \cf2 \expnd0\expndtw0\kerning0
-\ul \ulc2 Method Swizzling 
-\f1 \'ba\'cd
-\f0  AOP 
-\f1 \'ca\'b5\'bc\'f9}}}</string>
-												</dict>
-											</dict>
-										</array>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;瞄了眼Method Swizzling(0.5h)	&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'c3\'e9\'c1\'cb\'d1\'dbMethod Swizzling(0.5h)	}</string>
-										</dict>
-									</dict>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{-1117.26953125, 3.1796875}</string>
-										<key>nodeID</key>
-										<string>C1BA83D0-AF28-46D2-9894-CB48D0D1411B</string>
-										<key>strokeColor</key>
-										<string>{0.144, 0.670, 1.000, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;内存管理(2.3h)&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed(2.3h)}</string>
-										</dict>
-									</dict>
-									<dict>
-										<key>contentAlignment</key>
-										<integer>1</integer>
-										<key>fillColor</key>
-										<string>{1.000, 1.000, 1.000, 1.000}</string>
-										<key>isDecreasingBranchThickness</key>
-										<true/>
-										<key>isDrawingFill</key>
-										<false/>
-										<key>isLeftAligned</key>
-										<false/>
-										<key>location</key>
-										<string>{-1117.26953125, 44.1796875}</string>
-										<key>nodeID</key>
-										<string>61757B1E-C5CD-4EE2-A07F-A62039BA287C</string>
-										<key>strokeColor</key>
-										<string>{0.144, 0.670, 1.000, 1.000}</string>
-										<key>strokeStyle</key>
-										<integer>0</integer>
-										<key>strokeWidth</key>
-										<real>4</real>
-										<key>subnodes</key>
-										<array/>
-										<key>title</key>
-										<dict>
-											<key>constrainedWidth</key>
-											<integer>300</integer>
-											<key>htmlText</key>
-											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;UITableView(0.7h)&lt;/p&gt;</string>
-											<key>shrinkToFitContent</key>
-											<integer>1</integer>
-											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 UITableView(0.7h)}</string>
-										</dict>
-									</dict>
-								</array>
-								<key>title</key>
-								<dict>
-									<key>constrainedWidth</key>
-									<integer>300</integer>
-									<key>htmlText</key>
-									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;iOS Base&lt;/p&gt;</string>
-									<key>shrinkToFitContent</key>
-									<integer>1</integer>
-									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 iOS Base}</string>
-								</dict>
-							</dict>
-						</array>
-						<key>title</key>
-						<dict>
-							<key>constrainedWidth</key>
-							<integer>300</integer>
-							<key>htmlText</key>
-							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;D2(5h)&lt;/p&gt;</string>
-							<key>shrinkToFitContent</key>
-							<integer>1</integer>
-							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg936\cocoartf1504
-{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
-{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
-\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
-
-\f0\fs36 \cf2 D2(5h)}</string>
-						</dict>
-					</dict>
-					<dict>
-						<key>contentAlignment</key>
-						<integer>1</integer>
-						<key>fillColor</key>
-						<string>{1.000, 1.000, 1.000, 1.000}</string>
 						<key>isDecreasingBranchThickness</key>
 						<true/>
 						<key>isDrawingFill</key>
@@ -897,9 +467,9 @@
 						<key>isLeftAligned</key>
 						<true/>
 						<key>location</key>
-						<string>{-1639.26953125, 16.1796875}</string>
+						<string>{-1970.73828125, -27.27734375}</string>
 						<key>nodeID</key>
-						<string>9E2A9D22-444B-4C8B-B7D2-E93D006B849C</string>
+						<string>EE41535E-A234-4841-9C8C-E8269E063AD3</string>
 						<key>strokeColor</key>
 						<string>{1.000, 0.742, 0.041, 1.000}</string>
 						<key>strokeStyle</key>
@@ -920,9 +490,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1784.26953125, -24.8203125}</string>
+								<string>{-2115.73828125, -68.27734375}</string>
 								<key>nodeID</key>
-								<string>871720CE-896E-4C0F-B8AD-305515B1695B</string>
+								<string>AABCB199-9D3A-4760-B662-1E5F0CC4EBD2</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -940,10 +510,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed}</string>
@@ -961,9 +531,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1788.26953125, 16.1796875}</string>
+								<string>{-2119.73828125, -27.27734375}</string>
 								<key>nodeID</key>
-								<string>D12E5E24-4B49-4E18-B69A-4DFFA81133C3</string>
+								<string>9EFE9AA4-024B-4D42-A024-715373307F20</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -981,10 +551,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 Category}</string>
@@ -1002,9 +572,9 @@
 								<key>isLeftAligned</key>
 								<true/>
 								<key>location</key>
-								<string>{-1751.26953125, 57.1796875}</string>
+								<string>{-2082.73828125, 13.72265625}</string>
 								<key>nodeID</key>
-								<string>0CEEA375-658C-41BA-BE78-7C0D7B2160A5</string>
+								<string>3D0DA98F-F180-4522-B78E-7F95AB0A1835</string>
 								<key>strokeColor</key>
 								<string>{1.000, 0.742, 0.041, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1022,10 +592,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'cf\'df\'b3\'cc}</string>
@@ -1041,10 +611,10 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 Core}</string>
@@ -1055,8 +625,6 @@
 						<integer>1</integer>
 						<key>fillColor</key>
 						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>hasFoldedSubnodes</key>
-						<true/>
 						<key>isDecreasingBranchThickness</key>
 						<true/>
 						<key>isDrawingFill</key>
@@ -1064,9 +632,597 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1396.26953125, 16.1796875}</string>
+						<string>{-1727.73828125, -47.77734375}</string>
 						<key>nodeID</key>
-						<string>C28ED5F5-C039-410B-A079-23F3D1534156</string>
+						<string>BC59AF8A-B85B-4695-BE19-41F4795511B5</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{-1598.73828125, -47.77734375}</string>
+								<key>nodeID</key>
+								<string>7139C7B4-5CB5-4EC7-8E3B-24792C0B66F2</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-1448.73828125, -129.77734375}</string>
+										<key>nodeID</key>
+										<string>A2431856-209D-4A19-B39E-99848EF912D9</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{-1219.73828125, -137.27734375}</string>
+												<key>nodeID</key>
+												<string>F601A78D-1917-47FC-9010-D4F57B9AD2DF</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Regular"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://www.molotang.com/articles/1905.html'&gt;从消息发送（方法调用）看&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 14px "Helvetica Neue"; text-decoration: underline; -cocoa-font-postscriptname: "HelveticaNeue"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://www.molotang.com/articles/1905.html'&gt;Objective-C&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Regular"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://www.molotang.com/articles/1905.html'&gt;的运行时&lt;/a&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c91373;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://www.molotang.com/articles/1905.html"}}{\fldrslt 
+\f0\fs28 \cf2 \ul \ulc2 \'b4\'d3\'cf\'fb\'cf\'a2\'b7\'a2\'cb\'cd\'a3\'a8\'b7\'bd\'b7\'a8\'b5\'f7\'d3\'c3\'a3\'a9\'bf\'b4
+\f1 \cf2 \ulc2 Objective-C
+\f0 \cf2 \ulc2 \'b5\'c4\'d4\'cb\'d0\'d0\'ca\'b1}}}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;回顾消息传递(0.5h)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'bb\'d8\'b9\'cb\'cf\'fb\'cf\'a2\'b4\'ab\'b5\'dd(0.5h)}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-1448.73828125, -81.27734375}</string>
+										<key>nodeID</key>
+										<string>F6B9720A-3D1B-40B5-A0F7-2CFA39098C96</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{-1198.73828125, -81.27734375}</string>
+												<key>nodeID</key>
+												<string>1F1F86EB-1BE1-46FE-9D3C-0AAB4125703C</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 12px "Times"; text-decoration: underline; -cocoa-font-postscriptname: "Times-Roman"; -cocoa-underline: single; ' href='http://www.molotang.com/articles/1912.html'&gt;Objective-C&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: 12px "Songti SC"; text-decoration: underline; -cocoa-font-postscriptname: "STSongti-SC-Regular"; -cocoa-underline: single; ' href='http://www.molotang.com/articles/1912.html'&gt;的对象模型与运行时&lt;/a&gt;&lt;span style='color: rgba(0, 0, 0, 1.000000); font: 12px "Times"; -cocoa-font-postscriptname: "Times-Roman"; '&gt;  &lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\froman\fcharset0 Times-Roman;\f1\fnil\fcharset134 STSongti-SC-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c91373;\csgenericrgb\c0\c0\c0;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://www.molotang.com/articles/1912.html"}}{\fldrslt 
+\f0\fs24 \cf2 \ul \ulc2 Objective-C
+\f1 \cf2 \ulc2 \'b5\'c4\'b6\'d4\'cf\'f3\'c4\'a3\'d0\'cd\'d3\'eb\'d4\'cb\'d0\'d0\'ca\'b1}}
+\f0\fs24 \cf3  \'a0}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;回顾对象模型(1h),小结&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'bb\'d8\'b9\'cb\'b6\'d4\'cf\'f3\'c4\'a3\'d0\'cd(1h),\'d0\'a1\'bd\'e1}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-1448.73828125, -40.27734375}</string>
+										<key>nodeID</key>
+										<string>B4B3A39B-B306-4614-A6D0-67AB17927845</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{-1124.73828125, -40.27734375}</string>
+												<key>nodeID</key>
+												<string>4A24D088-F421-4E9D-940A-7DEB0F5DC90F</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='text-align: left; '&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "Helvetica Neue"; text-decoration: underline; -cocoa-font-postscriptname: "HelveticaNeue-Bold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt;Method Swizzling &lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Semibold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt;和&lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "Helvetica Neue"; text-decoration: underline; -cocoa-font-postscriptname: "HelveticaNeue-Bold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt; AOP &lt;/a&gt;&lt;a style='color: rgba(0, 0, 233, 1.000000); font: bold 14px "PingFang SC"; text-decoration: underline; -cocoa-font-postscriptname: "PingFangSC-Semibold"; -cocoa-underline: single; -cocoa-underline-color: rgba(0, 0, 233, 1.000000); ' href='http://tech.glowing.com/cn/method-swizzling-aop/'&gt;实践&lt;/a&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue-Bold;\f1\fnil\fcharset134 PingFangSC-Semibold;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue233;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c0\c91373;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+{\field{\*\fldinst{HYPERLINK "http://tech.glowing.com/cn/method-swizzling-aop/"}}{\fldrslt 
+\f0\b\fs28 \cf2 \ul \ulc2 Method Swizzling 
+\f1 \cf2 \ulc2 \'ba\'cd
+\f0 \cf2 \ulc2  AOP 
+\f1 \cf2 \ulc2 \'ca\'b5\'bc\'f9}}}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;瞄了眼Method Swizzling(0.5h)	&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c3\'e9\'c1\'cb\'d1\'dbMethod Swizzling(0.5h)	}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-1448.73828125, 0.72265625}</string>
+										<key>nodeID</key>
+										<string>C5B94C5F-9481-4622-BED6-ACE1640C8367</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;内存管理(2.3h)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed(2.3h)}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{-1448.73828125, 41.72265625}</string>
+										<key>nodeID</key>
+										<string>A604343D-10C1-4C38-8983-F2453108985A</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;UITableView(0.7h)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 UITableView(0.7h)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;iOS Base&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iOS Base}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;D2(5h)&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 D2(5h)}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<true/>
+						<key>location</key>
+						<string>{-1969.73828125, 75.22265625}</string>
+						<key>nodeID</key>
+						<string>DCE5D94B-6D7B-4BD2-AB2B-D1D19FD27080</string>
+						<key>strokeColor</key>
+						<string>{0.689, 0.215, 0.952, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-2119.73828125, 54.72265625}</string>
+								<key>nodeID</key>
+								<string>35B691B3-38FD-47BF-98F9-1A702D8157E6</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;iOS Base&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 iOS Base}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<true/>
+								<key>location</key>
+								<string>{-2081.73828125, 95.72265625}</string>
+								<key>nodeID</key>
+								<string>1001C20C-0E97-429F-AD28-3069A8D9B668</string>
+								<key>strokeColor</key>
+								<string>{0.689, 0.215, 0.952, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<true/>
+										<key>location</key>
+										<string>{-2277.73828125, 95.72265625}</string>
+										<key>nodeID</key>
+										<string>1E84AFD6-149D-4C88-953E-0DE2C9FD5039</string>
+										<key>strokeColor</key>
+										<string>{0.689, 0.215, 0.952, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array/>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;Category(0.7h)&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 Category(0.7h)}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;回顾&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 \'bb\'d8\'b9\'cb}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "PingFang SC"; -cocoa-font-postscriptname: "PingFangSC-Regular"; '&gt;D6&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
+{\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
+
+\f0\fs36 \cf2 D6}</string>
+						</dict>
+					</dict>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{-1727.73828125, 144.22265625}</string>
+						<key>nodeID</key>
+						<string>842A06F6-F807-4241-9CDB-A42FE99B9DBC</string>
 						<key>strokeColor</key>
 						<string>{0.136, 0.807, 0.880, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1087,9 +1243,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1284.26953125, -4.3203125}</string>
+								<string>{-1615.73828125, 144.22265625}</string>
 								<key>nodeID</key>
-								<string>4B70CD82-0182-4B99-9567-E21D9D22654F</string>
+								<string>717AF8A4-9C83-4AB1-9809-1D6EC5D66008</string>
 								<key>strokeColor</key>
 								<string>{0.136, 0.807, 0.880, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1110,9 +1266,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1134.26953125, -24.8203125}</string>
+										<string>{-1465.73828125, 123.72265625}</string>
 										<key>nodeID</key>
-										<string>8E27D974-9AFE-4E4B-9C39-14F67BD20AFD</string>
+										<string>228EBDC7-0326-457B-A0D0-6A1DA29035B9</string>
 										<key>strokeColor</key>
 										<string>{0.136, 0.807, 0.880, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1133,9 +1289,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-885.26953125, -65.8203125}</string>
+												<string>{-1216.73828125, 82.72265625}</string>
 												<key>nodeID</key>
-												<string>B72F885A-D9CE-4B91-A67C-93F49C17BA0B</string>
+												<string>58068E88-B765-4BEA-A4D4-A5522938F6D6</string>
 												<key>strokeColor</key>
 												<string>{0.136, 0.807, 0.880, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1153,10 +1309,10 @@
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 iOS\'c4\'da\'b4\'e6\'bb\'fa\'d6\'c6\'cc\'d8\'b5\'e3}</string>
@@ -1174,9 +1330,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-885.26953125, -24.8203125}</string>
+												<string>{-1216.73828125, 123.72265625}</string>
 												<key>nodeID</key>
-												<string>57C45C9F-D967-4C01-BAEE-999403DEFD67</string>
+												<string>7EEC159D-BC9F-4DB6-9DE9-9B5021348ACC</string>
 												<key>strokeColor</key>
 												<string>{0.136, 0.807, 0.880, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1194,10 +1350,10 @@
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'b6\'d4\'b2\'df}</string>
@@ -1215,9 +1371,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-885.26953125, 16.1796875}</string>
+												<string>{-1216.73828125, 164.72265625}</string>
 												<key>nodeID</key>
-												<string>5D6F1907-E11D-4F49-BE9A-836500B315C2</string>
+												<string>09013E8D-504F-4652-A092-DB6FE96CA031</string>
 												<key>strokeColor</key>
 												<string>{0.136, 0.807, 0.880, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1235,10 +1391,10 @@
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'c4\'da\'b4\'e6\'b7\'d6\'b2\'bc}</string>
@@ -1254,10 +1410,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'bc\'d3\'c9\'ee\'c4\'da\'b4\'e6\'b9\'dc\'c0\'ed\'c0\'ed\'bd\'e2(2h)}</string>
@@ -1275,9 +1431,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1134.26953125, 57.1796875}</string>
+										<string>{-1465.73828125, 205.72265625}</string>
 										<key>nodeID</key>
-										<string>85A2D31F-6D89-4F1A-AFC0-4CB76F5C3F0D</string>
+										<string>C8FC98F5-90F6-4360-AFBB-F26AB1467009</string>
 										<key>strokeColor</key>
 										<string>{0.136, 0.807, 0.880, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1298,9 +1454,9 @@
 												<key>isLeftAligned</key>
 												<false/>
 												<key>location</key>
-												<string>{-1007.26953125, 57.1796875}</string>
+												<string>{-1338.73828125, 205.72265625}</string>
 												<key>nodeID</key>
-												<string>A85D28CF-5326-42EC-B05C-D4C8538DE8A7</string>
+												<string>44ECC904-49BB-4D65-A77E-6F057AE35F5D</string>
 												<key>strokeColor</key>
 												<string>{0.136, 0.807, 0.880, 1.000}</string>
 												<key>strokeStyle</key>
@@ -1318,10 +1474,10 @@
 													<key>shrinkToFitContent</key>
 													<integer>1</integer>
 													<key>text</key>
-													<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+													<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 GCD}</string>
@@ -1337,10 +1493,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'b6\'e0\'cf\'df\'b3\'cc}</string>
@@ -1356,10 +1512,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 iOS Base}</string>
@@ -1375,10 +1531,10 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 D3}</string>
@@ -1389,8 +1545,6 @@
 						<integer>1</integer>
 						<key>fillColor</key>
 						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>hasFoldedSubnodes</key>
-						<true/>
 						<key>isDecreasingBranchThickness</key>
 						<true/>
 						<key>isDrawingFill</key>
@@ -1398,9 +1552,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1396.26953125, 57.1796875}</string>
+						<string>{-1727.73828125, 246.72265625}</string>
 						<key>nodeID</key>
-						<string>916C313B-A2CF-408F-8D83-BA5EEAC215AD</string>
+						<string>A0FF55D1-7D39-488A-9210-3F084D9190C5</string>
 						<key>strokeColor</key>
 						<string>{0.822, 0.084, 0.348, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1423,9 +1577,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1284.26953125, 57.1796875}</string>
+								<string>{-1615.73828125, 246.72265625}</string>
 								<key>nodeID</key>
-								<string>99D988E7-20C2-4F26-AFAA-3CC10228ABB9</string>
+								<string>EFFEF447-6CDD-4D45-B08D-4B504CA96467</string>
 								<key>strokeColor</key>
 								<string>{0.822, 0.084, 0.348, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1446,9 +1600,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1036.26953125, 167.1796875}</string>
+										<string>{-1367.73828125, 164.72265625}</string>
 										<key>nodeID</key>
-										<string>D65C0CF9-8CDF-4BEB-A161-69CD244F961C</string>
+										<string>34E0822F-62CF-4F20-983A-13AA59807653</string>
 										<key>strokeColor</key>
 										<string>{0.822, 0.084, 0.348, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1466,10 +1620,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'bb\'d8\'b9\'cbGCD\'a3\'ac\'b2\'a2\'b7\'a2\'b1\'e0\'b3\'cc}</string>
@@ -1487,9 +1641,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1036.26953125, 208.1796875}</string>
+										<string>{-1367.73828125, 205.72265625}</string>
 										<key>nodeID</key>
-										<string>25CB8657-F002-4AE3-986E-C82CFC97A444</string>
+										<string>E136A0CA-932B-44BD-8E50-171C034C3536</string>
 										<key>strokeColor</key>
 										<string>{0.822, 0.084, 0.348, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1507,10 +1661,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'b2\'d9\'d7\'f7\'b6\'d3\'c1\'d0}</string>
@@ -1528,9 +1682,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1036.26953125, 249.1796875}</string>
+										<string>{-1367.73828125, 246.72265625}</string>
 										<key>nodeID</key>
-										<string>95763864-1EA6-40C6-B265-8668A961FBFB</string>
+										<string>2C4CB771-353B-4C69-B360-761644F44E93</string>
 										<key>strokeColor</key>
 										<string>{0.822, 0.084, 0.348, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1548,10 +1702,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'b2\'e9\'bf\'b4\'ca\'ec\'cf\'a4API}</string>
@@ -1567,10 +1721,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 iOSBase\'a1\'aa\'b6\'e0\'cf\'df\'b3\'cc(5h)}</string>
@@ -1586,10 +1740,10 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 D4}</string>
@@ -1600,8 +1754,6 @@
 						<integer>1</integer>
 						<key>fillColor</key>
 						<string>{1.000, 1.000, 1.000, 1.000}</string>
-						<key>hasFoldedSubnodes</key>
-						<true/>
 						<key>isDecreasingBranchThickness</key>
 						<true/>
 						<key>isDrawingFill</key>
@@ -1609,9 +1761,9 @@
 						<key>isLeftAligned</key>
 						<false/>
 						<key>location</key>
-						<string>{-1396.26953125, 98.1796875}</string>
+						<string>{-1727.73828125, 349.22265625}</string>
 						<key>nodeID</key>
-						<string>2A255E17-A0DC-4505-B2BD-20B7183822E3</string>
+						<string>E4F910EB-5777-4F21-B53D-930F58BCEBFC</string>
 						<key>strokeColor</key>
 						<string>{0.194, 0.734, 0.282, 1.000}</string>
 						<key>strokeStyle</key>
@@ -1632,9 +1784,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1284.26953125, 36.6796875}</string>
+								<string>{-1615.73828125, 287.72265625}</string>
 								<key>nodeID</key>
-								<string>B00ECDC4-B720-4431-95F4-22C43E3301F2</string>
+								<string>1598AACF-B9A0-4E72-854A-C133B4E00623</string>
 								<key>strokeColor</key>
 								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1655,9 +1807,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1172.26953125, 36.6796875}</string>
+										<string>{-1503.73828125, 287.72265625}</string>
 										<key>nodeID</key>
-										<string>87BDD8BC-25DA-4141-AFE8-7862C3711DAD</string>
+										<string>D6EAF8BD-69B9-4475-BB25-22CADFE2849C</string>
 										<key>strokeColor</key>
 										<string>{0.194, 0.734, 0.282, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1675,10 +1827,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 \'b0\'b2\'d7\'b0XVim\'a3\'ac\'d5\'fb\'c0\'ed\'b3\'c9\'b2\'a9\'bf\'cd(0.5h)}</string>
@@ -1694,10 +1846,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 Tip}</string>
@@ -1715,9 +1867,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1284.26953125, 98.1796875}</string>
+								<string>{-1615.73828125, 349.22265625}</string>
 								<key>nodeID</key>
-								<string>78A04244-53A3-4FE3-819F-B64CC99E04A7</string>
+								<string>FD9E6F8E-5F00-459E-B857-0B2DAFC19C39</string>
 								<key>strokeColor</key>
 								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1738,9 +1890,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1169.26953125, 77.6796875}</string>
+										<string>{-1500.73828125, 328.72265625}</string>
 										<key>nodeID</key>
-										<string>E56DDDED-6848-4691-A3E3-37FEC25C7B7B</string>
+										<string>64174842-CFEB-48A1-BBEB-32DD28E934E4</string>
 										<key>strokeColor</key>
 										<string>{0.194, 0.734, 0.282, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1758,10 +1910,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 2--\'cf\'c2\'b1\'ea(0.8h)}</string>
@@ -1779,9 +1931,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1169.26953125, 118.6796875}</string>
+										<string>{-1500.73828125, 369.72265625}</string>
 										<key>nodeID</key>
-										<string>F236FDF9-ADF9-4662-8B22-DAC33922A5FE</string>
+										<string>785B4293-85BE-461C-88EE-C0EE5CCEFE77</string>
 										<key>strokeColor</key>
 										<string>{0.194, 0.734, 0.282, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1799,10 +1951,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 2\'a1\'aa\'c0\'a9\'d5\'b9(1h)}</string>
@@ -1818,10 +1970,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 Swift}</string>
@@ -1839,9 +1991,9 @@
 								<key>isLeftAligned</key>
 								<false/>
 								<key>location</key>
-								<string>{-1284.26953125, 159.6796875}</string>
+								<string>{-1615.73828125, 410.72265625}</string>
 								<key>nodeID</key>
-								<string>5309F051-6B69-48D8-87F8-6C3545286E03</string>
+								<string>EDF63ACE-BA6E-4710-8AA3-9F4FEB720712</string>
 								<key>strokeColor</key>
 								<string>{0.194, 0.734, 0.282, 1.000}</string>
 								<key>strokeStyle</key>
@@ -1862,9 +2014,9 @@
 										<key>isLeftAligned</key>
 										<false/>
 										<key>location</key>
-										<string>{-1119.26953125, 159.6796875}</string>
+										<string>{-1450.73828125, 410.72265625}</string>
 										<key>nodeID</key>
-										<string>1AB43691-F8CF-477D-8FB3-0592119D4B0E</string>
+										<string>CF07222A-977A-4FF1-A503-F9C1990A695F</string>
 										<key>strokeColor</key>
 										<string>{0.194, 0.734, 0.282, 1.000}</string>
 										<key>strokeStyle</key>
@@ -1882,10 +2034,10 @@
 											<key>shrinkToFitContent</key>
 											<integer>1</integer>
 											<key>text</key>
-											<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+											<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 Category(2.5h)}</string>
@@ -1901,10 +2053,10 @@
 									<key>shrinkToFitContent</key>
 									<integer>1</integer>
 									<key>text</key>
-									<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+									<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 iOS--Base}</string>
@@ -1920,10 +2072,10 @@
 							<key>shrinkToFitContent</key>
 							<integer>1</integer>
 							<key>text</key>
-							<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+							<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Regular;}
 {\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+{\*\expandedcolortbl;;\csgenericrgb\c35686\c35686\c35686;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs36 \cf2 D5}</string>
@@ -1939,10 +2091,10 @@
 					<key>shrinkToFitContent</key>
 					<integer>1</integer>
 					<key>text</key>
-					<string>{\rtf1\ansi\ansicpg936\cocoartf1504
+					<string>{\rtf1\ansi\ansicpg936\cocoartf1504\cocoasubrtf760
 {\fonttbl\f0\fnil\fcharset134 PingFangSC-Light;}
-{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
-{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c8600\c48200\c59200;}
+{\colortbl;\red255\green255\blue255;\red21\green122\blue150;}
+{\*\expandedcolortbl;;\csgenericrgb\c8235\c47843\c58824;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural
 
 \f0\fs42 \cf2 W4}</string>
