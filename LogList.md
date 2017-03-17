@@ -6,6 +6,15 @@
 
 
 - [ ] 本地存储;🌹  🌹 
+- [ ] KVC键值编码;
+- [ ] KVO键值观察， NSNotificationCenter;317(2h)
+
+
+**添加移除位置**:UIViewController中在viewWillAppear中添加键值观察，在viewWillDisappear中移除键值观察。或者init与dealloc中添加和移除键值观察。
+
+UIView在awakeFromNib中添加键值观察，在removeFromSuperview中移除键值观察。
+
+ps: 如果在不恰当的地方(比如UIView中在willRemoveSubview中)移除可能会导致崩溃“Cannot remove an observer because it is not registered as an observer.”
 
 - [x] ## 多线程；🌹  🌹 308(2h)—>309(5h)—>313(2h)
 
@@ -250,9 +259,67 @@ extension UIImage {
 
 ### 基础控件
 
-- [ ] UITableView;🌹 🌹 
+- [ ] UITableView; 
+
+TableView的数据什么时候加载?
+
+
+
+- [ ] UITextField;316(2h)
+
+
+检测是否输入字符: 代理shouldChangeCharactersInRange会在字符改变时调用。但点击词频上的文字并不会进入该代理。那么如何检测点击了词频上的字呢？
+
+KVO：通过键值观察，添加对textField的text属性的观察，但是
+
+最后通过NSNotificationCenter解决，UITextField的头文件提供了UITextFieldTextDidChangeNotification通知，会在文本修改的时候调用，点击词频上的文本会调用两次该通知，点击按键上的字符调用一次。
+
+- [ ] UIView声明周期；
+
+
+loadView
+
+awakeFromNib
+
+viewDidLoad
+
+viewDidAppear
+
 - [ ] UICollectionView;🌹 
 - [ ] UIScrollView；🌹 
+- [ ] UIViewController;
+
+
+懒加载视图，也就是第一次访问view属性时才会加载或创建。
+
+**加载方式**:
+
+1) StoryBoard加载:
+
+```objective-c
+[[UIStoryboard storyboardWithName:@"storyboard的名称，比如Main" bundle:nil] instantiateViewControllerWithIdentifier:@"在storyboard中设置视图控制器的StoryboardID"];
+```
+
+2) Nib加载:
+
+```objective-c
+DemoViewController *vc = [[DemoViewController alloc] initWithNibName: @"" bundle: nil];
+```
+
+3) 代码写UI:
+
+通过在UIViewController的实现文件中实现loadView方法，创建视图层次，可以将根视图赋值给view属性。
+
+```objective-c
+- (void)loadView {
+  self.view = [[CustomeView alloc] init];
+}
+```
+
+状态代理: viewWillAppear —> viewDidAppear —> viewWillDisappear —> viewDidDisappear
+
+
+
 - [x] UINavigationController;🌹 🌹 302(1.7h)—>306(1.5h)
 
 
@@ -273,13 +340,13 @@ extension UIImage {
 ### 框架
 
 - [ ] Wallet;
-- [ ] AVFoundation二维码扫描;🌹 🌹 313(1h)
+- [x] AVFoundation二维码扫描;🌹 🌹 313(1h) —>314(2h)—>315(2h)
 
 **sessionPreset识别小图二维码**:通过设置AVCaptureSession的sessionPreset属性设置图像每一帧的大小，设的高代表能快速扫描小图。一般AVCaptureSessionPreset640 * 480就够用，要识别小图就设高一些，如AVCatureSessionPreset1920 * 1080。
 
 **rectOfInterest设置识别区域**: 识别区域默认是整张图片，但可以通过rectOfInterest设置识别区域，提高扫描性能和速度。该属性是CGRect，所以不看文档的话会以为是通过设置(x,y,width,height)，但文档中指出默认是(top, left, height, width),其中所有的值范围为 0.0 - 1.0，因而是按比例设值。（ps：  猜想是AVCapture输出的图片是横着的，iPhone的屏幕是竖着的，因而需要将比例旋转90度）。
 
-**一维码扫描问题**: 
+**一维码二维码扫描问题**: 单单只设一种类型，可以很快识别，但设置两种类型，识别一维码就比较慢。目前想到的解决方案一个是动态修改识别类型(但会出现闪现问题);另一种是中和策略，通过调整识别区域达到一个中和值。但结果还是不是特别理想。其实本身这个问题还是蛮诡异的，本质好像是一维码和二维码的识别方式不同。
 
 - [ ] Photos图片框架;
 - [x] 蓝牙;🌹 213N —> 214D(1.8h)
