@@ -287,7 +287,7 @@ viewDidAppear
 
 - [ ] UICollectionView;🌹 
 - [ ] UIScrollView；🌹 
-- [ ] UIViewController;
+- [ ] UIViewController;🌹 🌹 
 
 
 懒加载视图，也就是第一次访问view属性时才会加载或创建。
@@ -300,11 +300,15 @@ viewDidAppear
 [[UIStoryboard storyboardWithName:@"storyboard的名称，比如Main" bundle:nil] instantiateViewControllerWithIdentifier:@"在storyboard中设置视图控制器的StoryboardID"];
 ```
 
+生命周期：
+
 2) Nib加载:
 
 ```objective-c
 DemoViewController *vc = [[DemoViewController alloc] initWithNibName: @"" bundle: nil];
 ```
+
+
 
 3) 代码写UI:
 
