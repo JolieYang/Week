@@ -274,53 +274,71 @@ KVO：通过键值观察，添加对textField的text属性的观察，但是
 
 最后通过NSNotificationCenter解决，UITextField的头文件提供了UITextFieldTextDidChangeNotification通知，会在文本修改的时候调用，点击词频上的文本会调用两次该通知，点击按键上的字符调用一次。
 
-- [ ] UIView声明周期；
+- [x] UIView声明周期；20170323(1h)
 
 
-loadView
+为了兼顾从文件和从代码初始化对象，需要实现initWithCoder和initWithFrame
 
-awakeFromNib
+#### xib/SB加载视图
 
-viewDidLoad
+**生命周期**: 在loadView之后调用，顺序为initWithCoder —> awakFromNib
 
-viewDidAppear
+##### initWithCoder
 
-- [ ] UICollectionView;🌹 
-- [ ] UIScrollView；🌹 
-- [ ] UIViewController;🌹 🌹 
+**调用时间**: 控件通过xib/SB加载对象实例后，系统会调用initWithCoder
 
-
-懒加载视图，也就是第一次访问view属性时才会加载或创建。
-
-**加载方式**:
-
-1) StoryBoard加载:
+**作用**： 重新设置nib中已经设置好的各项属性
 
 ```objective-c
-[[UIStoryboard storyboardWithName:@"storyboard的名称，比如Main" bundle:nil] instantiateViewControllerWithIdentifier:@"在storyboard中设置视图控制器的StoryboardID"];
-```
-
-生命周期：
-
-2) Nib加载:
-
-```objective-c
-DemoViewController *vc = [[DemoViewController alloc] initWithNibName: @"" bundle: nil];
-```
-
-
-
-3) 代码写UI:
-
-通过在UIViewController的实现文件中实现loadView方法，创建视图层次，可以将根视图赋值给view属性。
-
-```objective-c
-- (void)loadView {
-  self.view = [[CustomeView alloc] init];
+- (instancetype)initWithCoder:(NSCoder *)coder
+{
+    self = [super initWithCoder:coder];
+    if (self) {
+        NSLog(@"initWithCoder");
+        [self initViews];
+    }
+    return self;
 }
 ```
 
-状态代理: viewWillAppear —> viewDidAppear —> viewWillDisappear —> viewDidDisappear
+##### awakeFromNib
+
+**调用时间**：initWithCoder之后调用
+
+```objective-c
+-(void)awakeFromNib{
+    NSLog(@"awakeFromNib");
+    [super awakeFromNib];
+    [self initViews];    
+}
+```
+
+#### 代码加载视图
+
+**生命周期**: initWithFrame
+
+ ##### initWithFrame
+
+**调用时间**: 不是从xib/SB创建视图时
+
+```objective-c
+- (instancetype)initWithFrame:(CGRect)frame
+{
+    self = [super initWithFrame:frame];
+    if (self) {
+        NSLog(@"initWithFrame");
+        [self initViews];
+    }
+    return self;
+}
+```
+
+- [ ] UICollectionView;🌹 
+- [ ] UIScrollView；🌹 
+- [x] UIViewController;🌹 🌹 … ->20170323(2h)
+
+
+懒加载视图，也就是第一次访问view属性时才会加载或创建。
 
 
 
